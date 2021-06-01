@@ -36,18 +36,18 @@ console.log("Movie is", movie);
                 </ImageTitle>
                 <Controls>
                     <PlayButton>
-                        <img src="/images/play-icon-black.png" />
+                        <img src="/disney-plus-clone/images/play-icon-black.png" />
                         <span>PLAY</span>
                     </PlayButton>
                     <TrailerButton>
-                        <img src="/images/play-icon-white.png" />
+                        <img src="/disney-plus-clone/images/play-icon-white.png" />
                         <span>TRAILER</span>
                     </TrailerButton>
                     <AddButton>
                         <span>+</span>
                     </AddButton>
                     <GroupWatchButton>
-                        <img src="/images/group-icon.png" />
+                        <img src="/disney-plus-clone/images/group-icon.png" />
                     </GroupWatchButton>
                     
                 </Controls>
